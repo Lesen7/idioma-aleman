@@ -1,3 +1,2 @@
 ﻿Proyecto de página web
-Producto: ordenador portátil
-Descripción, fotos y especificaciones del producto.
+Página web de información, chuletas y enlaces de alemán.
