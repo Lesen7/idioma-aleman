@@ -1,1 +1,1 @@
-﻿Página con chuletas, información y enlaces útiles para aprender alemán.
+﻿Proyecto de página web Página web de información, chuletas y enlaces de alemán.
