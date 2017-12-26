@@ -1,14 +1,14 @@
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro);
 
 @font-face {
-font-family: 'Deutsch';
-font-weight: 400;
-src: local('Deutsch'),
-url(/fonts/deutsch.ttf);
+  font-family: 'Deutsch Gothic';
+  font-weight: 400;
+  src: local('Deutsch Gothic'),
+       url(/enzolespart/fonts/deutsch.ttf);
 }
 
 .titulo2 {
-  font-family: 'Deutsch';
+  font-family: 'Deutsch Gothic', fantasy;
 }
 
 p {
