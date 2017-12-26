@@ -1,4 +1,16 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro);
+
+@font-face {
+font-family: 'Deutsch';
+font-weight: 400;
+src: local('Deutsch'),
+url(/fonts/deutsch.ttf);
+}
+
 .titulo2 {
-  display: inline-block;
-  background-color: orange;
+  font-family: 'Deutsch';
+}
+
+p {
+  font-family: 'Source Sans Pro', sans-serif;
 }
