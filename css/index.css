@@ -9,6 +9,15 @@
        url(../fonts/deutsch.ttf);
 }
 
+body {
+  margin: 0;
+}
+
+#pagina {
+  width: 900px;
+  margin: auto;
+}
+
 .titulo2 {
   font-family: 'Deutsch Gothic', fantasy;
 }
@@ -19,4 +28,8 @@ p {
 
 header {
   background-image: url(../img/bandera-alemania.png);
+  min-height: 200px;
+  background-size: 900px 200px;
+  background-position: center;
+  background-repeat: no-repeat;
 }
