@@ -4,9 +4,9 @@
   font-family: 'Deutsch Gothic';
   font-weight: 400;
   src: local('Deutsch Gothic'),
-       url(/idioma-aleman/fonts/deutsch.woff2),
-       url(/idioma-aleman/fonts/deutsch.woff),
-       url(/idioma-aleman/fonts/deutsch.ttf);
+       url(../fonts/deutsch.woff2),
+       url(../fonts/deutsch.woff),
+       url(../fonts/deutsch.ttf);
 }
 
 .titulo2 {
