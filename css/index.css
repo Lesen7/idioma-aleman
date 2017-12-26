@@ -4,7 +4,9 @@
   font-family: 'Deutsch Gothic';
   font-weight: 400;
   src: local('Deutsch Gothic'),
-       url(/enzolespart/fonts/deutsch.ttf);
+       url(/idioma-aleman/fonts/deutsch.woff2),
+       url(/idioma-aleman/fonts/deutsch.woff),
+       url(/idioma-aleman/fonts/deutsch.ttf);
 }
 
 .titulo2 {
