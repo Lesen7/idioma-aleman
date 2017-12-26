@@ -16,3 +16,7 @@
 p {
   font-family: 'Source Sans Pro', sans-serif;
 }
+
+header {
+  background-image: url(../img/bandera-alemania.png);
+}
