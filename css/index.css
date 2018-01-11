@@ -3,6 +3,10 @@
 
 
 body {
+  background-image: linear-gradient(to bottom, transparent 24%, white 700px),
+                    url(../img/fondo.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
   margin: 0;
 }
 
@@ -12,7 +16,7 @@ header {
   background-size: 900px 200px;
   background-position: center;
   background-repeat: no-repeat;
-  border-radius: 10px;
+  border-radius: 10px 10px 0 0;
 }
 
 #pagina {
@@ -27,7 +31,7 @@ header {
   justify-content: space-between;
   padding: 10px;
   background: red;
-  border-radius: 10px;
+  border-radius: 0 0 10px 10px;
 }
 
 .navButton {
@@ -60,6 +64,27 @@ header {
 .descripcion {
   text-align: justify;
   font-family: 'Source Sans Pro', sans-serif;
+}
+
+section {
+  background-size: cover;
+  min-height: 300px;
+}
+
+#inicio {
+  background-image: url(../img/fondo-inicio.jpg);
+}
+
+#informacion {
+  background-image: url(../img/fondo-info.jpg);
+}
+
+#descargas {
+  background-image: url(../img/fondo-descargas.jpg);
+}
+
+#contacto {
+  background-image: url(../img/fondo-contacto.jpg);
 }
 
 footer {
