@@ -12,6 +12,7 @@ body {
 
 header {
   background-image: url(../img/bandera-alemania.png);
+  min-width: 90%;
   min-height: 200px;
   background-size: 900px 200px;
   background-position: center;
@@ -36,8 +37,9 @@ header {
 
 .navButton {
   color: black;
-  background: yellow;
+  background: #ffdf6d;
   border-radius: 10px;
+  border: 2px solid #dda15d;
   text-decoration: none;
   text-align: center;
   padding: 10px 10px 10px 10px;
@@ -47,7 +49,7 @@ header {
 }
 
 .navButton:hover {
-  background-color: goldenrod;
+  background-color: #e8bb63;
   transition-duration: 0.3s;
 }
 
@@ -55,6 +57,12 @@ header {
   text-align: center;
   font-family: 'Francois One', sans-serif;
   font-size: 20px;
+  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+  font-weight: 600;
+}
+
+.slider div {
+  height: 400px;
 }
 
 .contenido {
@@ -62,13 +70,17 @@ header {
 }
 
 .descripcion {
+  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+  font-weight: 600;
+  font-size: 18px;
   text-align: justify;
   font-family: 'Source Sans Pro', sans-serif;
 }
 
 section {
+  padding: 15px;
   background-size: cover;
-  min-height: 300px;
+  min-height: 600px;
 }
 
 #inicio {
