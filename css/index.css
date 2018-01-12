@@ -1,13 +1,12 @@
-@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
 @import url(https://fonts.googleapis.com/css?family=Francois+One);
 
-
 body {
-  background-image: linear-gradient(to bottom, transparent 24%, white 700px),
-                    url(../img/fondo.jpg);
+  background-image: linear-gradient(to bottom, transparent 29%, white 80%), url(../img/fondo.jpg);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   margin: 0;
+  height: 100vh;
 }
 
 header {
@@ -36,7 +35,8 @@ header {
 }
 
 .navButton {
-  color: black;
+  background-color: yellow;
+  color: white;
   background: #ffdf6d;
   border-radius: 10px;
   border: 2px solid #dda15d;
@@ -53,28 +53,62 @@ header {
   transition-duration: 0.3s;
 }
 
+header {
+  height: 100%;
+  width: 100%;
+  flex-wrap: wrap;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
 .titulo2 {
   text-align: center;
   font-family: 'Francois One', sans-serif;
-  font-size: 20px;
-  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+  font-size: 40px;
+  text-shadow: -1px -1px 1px black;
   font-weight: 600;
 }
 
 .slider div {
+  min-width: 90%;
   height: 400px;
 }
 
 .contenido {
-  margin: 50px auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  min-width: 90%;
+  margin-top: 0;
 }
 
 .descripcion {
-  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
-  font-weight: 600;
-  font-size: 18px;
-  text-align: justify;
-  font-family: 'Source Sans Pro', sans-serif;
+    color: #d6d6d6;
+    font-weight: 600;
+    font-size: 22px;
+    letter-spacing: 0px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    width: 562px;
+    padding: 20px;
+    margin: auto;
+}
+
+.badge1 {
+  margin: auto;
+  display: inline;
+  width: 200px;
+  height: 73px;
+}
+
+.badge2 {
+  margin: auto;
+  display: inline;
+  width: 280px;
+  height: 100px;
 }
 
 section {
@@ -84,23 +118,28 @@ section {
 }
 
 #inicio {
-  background-image: url(../img/fondo-inicio.jpg);
+  background-image: linear-gradient(to bottom, RGBA(0, 0, 0, 0.75), RGBA(0, 0, 0, 0.5)),
+                    url(../img/fondo-inicio.jpg);
 }
 
 #informacion {
-  background-image: url(../img/fondo-info.jpg);
+  background-image: linear-gradient(to bottom, RGBA(0, 0, 0, 0.75), RGBA(0, 0, 0, 0.5)),
+                    url(../img/fondo-info.jpg);
 }
 
 #descargas {
-  background-image: url(../img/fondo-descargas.jpg);
+  background-image: linear-gradient(to bottom, RGBA(0, 0, 0, 0.75), RGBA(0, 0, 0, 0.5)),
+                    url(../img/fondo-descargas.jpg);
 }
 
 #contacto {
-  background-image: url(../img/fondo-contacto.jpg);
+  background-image: linear-gradient(to bottom, RGBA(0, 0, 0, 0.75), RGBA(0, 0, 0, 0.5)),
+                    url(../img/fondo-contacto.jpg);
 }
 
 footer {
   background-color: moccasin;
   text-align: center;
   margin: auto;
+  padding: 1px;
 }
