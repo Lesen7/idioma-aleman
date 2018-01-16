@@ -17,11 +17,26 @@ header {
   background-position: center;
   background-repeat: no-repeat;
   border-radius: 10px 10px 0 0;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 #pagina {
   width: 900px;
   margin: auto;
+}
+
+.imagenes {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .navButtons {
@@ -31,7 +46,6 @@ header {
   justify-content: space-between;
   padding: 10px;
   background: red;
-  border-radius: 0 0 10px 10px;
 }
 
 .navButton {
@@ -53,16 +67,6 @@ header {
   transition-duration: 0.3s;
 }
 
-header {
-  height: 100%;
-  width: 100%;
-  flex-wrap: wrap;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  align-content: center;
-}
 
 .titulo2 {
   text-align: center;
@@ -80,14 +84,15 @@ header {
 
 .contenido {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: space-around;
   min-width: 90%;
   margin-top: 0;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .descripcion {
-    color: #d6d6d6;
+    color: #000000;
     font-weight: 600;
     font-size: 22px;
     letter-spacing: 0px;
@@ -115,27 +120,23 @@ header {
 section {
   padding: 15px;
   background-size: cover;
-  min-height: 600px;
+  min-height: 60%;
 }
 
 #inicio {
-  background-image: linear-gradient(to bottom, RGBA(0, 0, 0, 0.75), RGBA(0, 0, 0, 0.5)),
-                    url(../img/fondo-inicio.jpg);
+  background-color: white;
 }
 
 #informacion {
-  background-image: linear-gradient(to bottom, RGBA(0, 0, 0, 0.75), RGBA(0, 0, 0, 0.5)),
-                    url(../img/fondo-info.jpg);
+  background-color: white;
 }
 
 #descargas {
-  background-image: linear-gradient(to bottom, RGBA(0, 0, 0, 0.75), RGBA(0, 0, 0, 0.5)),
-                    url(../img/fondo-descargas.jpg);
+  background-color: white;
 }
 
 #contacto {
-  background-image: linear-gradient(to bottom, RGBA(0, 0, 0, 0.75), RGBA(0, 0, 0, 0.5)),
-                    url(../img/fondo-contacto.jpg);
+  background-color: white;
 }
 
 footer {
@@ -143,4 +144,5 @@ footer {
   text-align: center;
   margin: auto;
   padding: 1px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
