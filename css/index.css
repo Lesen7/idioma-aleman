@@ -109,15 +109,14 @@ header {
   justify-content: center;
 }
 
-.imgInformacion {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-}
-
-.smartphone {
+.imgMitad {
   width: 50%;
   height: 50%;
+}
+
+.imgIcono {
+  width: 25%;
+  height: 25%;
 }
 
 .badge1 {
