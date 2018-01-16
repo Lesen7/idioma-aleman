@@ -103,6 +103,23 @@ header {
     margin: auto;
 }
 
+.imgPrincipal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.imgInformacion {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.smartphone {
+  width: 600px;
+  height: 418px;
+}
+
 .badge1 {
   margin: auto;
   display: inline;
