@@ -49,6 +49,7 @@ header {
   justify-content: space-between;
   padding: 10px;
   background: red;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .navButtons ul {
@@ -61,28 +62,12 @@ header {
 }
 
 .navButtons .active a {
-  background-color: #ffb649;
-}
-
-.navButton {
-  background-color: yellow;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   color: white;
-  background: #ffdf6d;
-  border-radius: 10px;
-  border: 2px solid #dda15d;
+  background-color: #fcb75b;
   text-decoration: none;
-  text-align: center;
-  padding: 10px 10px 10px 10px;
-  width: 20%;
-  font-family: 'Francois One', sans-serif;
-  font-size: 18px;
+  outline: none;
 }
-
-.navButton:hover {
-  background-color: #ffb649;
-  transition-duration: 0.3s;
-}
-
 
 .titulo2 {
   text-align: center;
