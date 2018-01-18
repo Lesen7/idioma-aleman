@@ -34,8 +34,9 @@ header {
 
 .imagenes {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
+  justify-content: center;
 }
 
 .navButtons {
@@ -49,6 +50,7 @@ header {
   background: #ff4d4d;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
+
 
 .navButtons ul {
   list-style-type: none;
@@ -97,9 +99,31 @@ header {
     letter-spacing: 0px;
     text-align: center;
     font-family: 'Open Sans', sans-serif;
-    width: 562px;
-    padding: 20px;
-    margin: auto;
+    padding-right: 2%;
+    padding-left: 2%;
+    margin: 0;
+}
+
+.info1 {
+  background-image: url(../img/dictionaries.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
+.info2 {
+  background-image: url(../img/smartphone.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+
+}
+
+.info3 {
+  background-image: url(../img/download.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
 }
 
 .imgPrincipal {
