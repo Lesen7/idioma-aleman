@@ -2,9 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Francois+One);
 
 body {
-  background-image: linear-gradient(to bottom, transparent 50%, white 95%), url(../img/fondo.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-image: url(../img/bookspattern.jpg);
   margin: 0;
   height: 100vh;
 }
