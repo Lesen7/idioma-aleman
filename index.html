@@ -85,6 +85,31 @@
         <div class="imgPrincipal">
           <img src="img/contact.png" class="imgIcono" alt="contacto">
         </div>
+        <br>
+
+      <div class="formulario">
+
+        <fieldset>
+        <legend>Datos personales</legend>
+        <form name="formulario" method="post" action="http://pagina.com/send.php">
+         <label> Nombre: <input type="text" name="nombre" placeholder="Ejemplo: Hans Müller"
+         minlength="10" maxlength="40" required> </label>
+         <br>
+         <label> E-mail: <input type="text" name="email" placeholder="Ejemplo: hans@mail.com"
+           minlength="10" maxlength="20" required> </label>
+          <br>
+        </fieldset>
+
+        <fieldset>
+        <legend>Mensaje</legend>
+          <label> Mensaje: <input type="text" name="mensaje" placeholder=""
+            minlength="10" maxlength="1200" required class="mensaje"> </label>
+          </fieldset>
+
+        <input type="submit" value="Enviar" class="button button-pill button-medium">
+
+        </form>
+        </div>
 
       </section>
 
