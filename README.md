@@ -7,7 +7,7 @@ Proyecto de página web de información, chuletas y enlaces de alemán. También
 | Descripción | Enlaces | Observaciones |
 |-------------|---------|---------------|
 | CodePen | [https://codepen.io/Lesen7/](https://codepen.io/Lesen7/) | Mi perfil de perfil de CodePen |
-| GitHub | [https://lesen7.github.io/sprechenscheidt/](https://enzolespart.github.io/idioma-aleman/) | Página principal del proyecto |
+| GitHub | [https://lesen7.github.io/sprechenscheidt/](https://lesen7.github.io/sprechenscheidt/) | Página principal del proyecto |
 
 ## Herramientas utilizadas
 * Draw.io: [https://www.draw.io/](https://www.draw.io/)
