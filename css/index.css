@@ -36,7 +36,7 @@ header {
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-end;
 }
 
 .navButtons {
@@ -88,11 +88,11 @@ header {
   flex-direction: column;
   justify-content: space-around;
   min-width: 90%;
-  margin-top: 0;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .descripcion {
+    display: inline-block;
     color: #000000;
     font-weight: 600;
     font-size: 22px;
@@ -105,14 +105,21 @@ header {
 }
 
 .info1 {
-  background-image: url(../img/dictionaries.jpg);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border: 1px solid #d0d0d0;
+  border-radius: 10px;
+  padding: 30px;
+  margin-top: 20px;
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
 }
 
 .info2 {
-  background-image: url(../img/smartphone.png);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border: 1px solid #d0d0d0;
+  border-radius: 10px;
+  padding: 30px;
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
@@ -120,16 +127,37 @@ header {
 }
 
 .info3 {
-  background-image: url(../img/download.png);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border: 1px solid #d0d0d0;
+  border-radius: 10px;
+  padding: 30px;
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center;
 }
 
-.imgPrincipal {
+.divImgPrincipal {
   display: flex;
   flex-direction: row;
   justify-content: center;
+}
+
+.imgPrincipal0 {
+  float: left;
+  width: 290px;
+  height: 200px;
+}
+
+.imgPrincipal1 {
+  float: left;
+  width: 230px;
+  height: 200px;
+}
+
+.imgPrincipal2 {
+  float: left;
+  width: 210px;
+  height: 200px;
 }
 
 .imgMitad {
@@ -157,7 +185,7 @@ header {
 }
 
 .formulario {
-  background-color: #ff4d4d;
+  background-color: #fea438;
   border-radius: 10px;
   display: flex;
   flex-direction: column;
@@ -173,7 +201,8 @@ header {
   width: 400px;
 }
 
-.boton {
+.email {
+  margin-left: 9px;
 
 }
 
