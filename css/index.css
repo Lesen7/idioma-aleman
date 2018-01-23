@@ -185,28 +185,41 @@ header {
 }
 
 .formulario {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  font-family: 'Open Sans', sans-serif;
   background-color: #fea438;
   border-radius: 10px;
   display: flex;
   flex-direction: column;
-  width: 700px;
-  height: 320px;
+  width: 400px;
+  height: 335px;
   margin: auto;
   padding: 15px;
 }
 
 
 .mensaje {
+  margin-left: 2px;
   height: 160px;
-  width: 400px;
+  width: 250px;
+}
+
+.nombre {
+  width: 250px;
 }
 
 .email {
-  margin-left: 9px;
+  margin-left: 16px;
+  width: 250px;
+}
 
+fieldset {
+  border-color: rgb(179, 91, 0);
+  border-style: dotted;
 }
 
 section {
+  background-color: white;
   padding: 15px;
   background-size: cover;
   min-height: 60%;
