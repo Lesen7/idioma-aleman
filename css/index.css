@@ -78,11 +78,6 @@ header {
   color: yellow;
 }
 
-.slider div {
-  min-width: 90%;
-  height: 400px;
-}
-
 .contenido {
   display: flex;
   flex-direction: column;
@@ -215,7 +210,7 @@ header {
 
 fieldset {
   border-color: rgb(179, 91, 0);
-  border-style: dotted;
+  border-style: solid;
 }
 
 section {
