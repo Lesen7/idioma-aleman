@@ -1,4 +1,4 @@
-# Proyecto idioma alemán
+# Proyecto Sprechenscheidt
 
 ## Descripción del proyecto 
 Proyecto de página web de información, chuletas y enlaces de alemán. También se presentará y promocionará un diccionario de alemán-español y una app relacionada a este.
