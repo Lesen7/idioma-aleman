@@ -29,7 +29,7 @@ Proyecto de página web de información, chuletas y enlaces de alemán. También
 ## Tareas pendientes:
 * Añadir funcionalidad/backend del formulario.
 * Reducir contenido de texto y añadir alguna imagen más.
-
+* Añadir diseño responsive.
 
 ## Captura de pantalla de la página
 ![Captura de la página](https://github.com/lesen7/sprechenscheidt/blob/master/img/screenshot.png "Captura de la página")
