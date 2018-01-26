@@ -15,7 +15,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="logoSprechenscheidt.svg">
+   sodipodi:docname="logoSprechenscheidt.svg"
+   inkscape:export-filename="C:\Users\Lenovo01\Documents\Enzo\proyectoLesen\img\logoSprechenscheidt.png"
+   inkscape:export-xdpi="29.82"
+   inkscape:export-ydpi="29.82">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -44,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -86,9 +89,9 @@
        x="21.263371"
        y="76.181648" />
     <rect
-       style="fill:#ffffff;stroke-width:0.26458332"
+       style="fill:#ffffff;stroke-width:0.26344207"
        id="rect3721"
-       width="184.41599"
+       width="182.82849"
        height="36.348625"
        x="27.677851"
        y="245.0959"
