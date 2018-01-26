@@ -10,9 +10,9 @@ body {
 
 header {
   z-index: 1;
-  background-image: url(../img/bandera-alemania.png);
   min-width: 100vw;
   min-height: 200px;
+  background-image: url(../img/bandera-alemania.png);
   background-size: 100% 200px;
   background-position: center;
   background-repeat: no-repeat;
@@ -174,11 +174,6 @@ header {
   height: 200px;
 }
 
-.imgMitad {
-  width: 50%;
-  height: 50%;
-}
-
 .imgIcono {
   width: 25%;
   height: 25%;
@@ -208,6 +203,7 @@ header {
   width: 400px;
   height: 335px;
   margin: auto;
+  margin-top: 20px;
   padding: 15px;
 }
 
