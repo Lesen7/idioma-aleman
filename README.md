@@ -16,7 +16,7 @@ Proyecto de página web de información, chuletas y enlaces de alemán. También
   * Plugins: linter, linter-ui-default, linter-tidy, busy-signal, intentions, linter-slint, atom-beautify, color-picker, emmet, minimap.
 * Inkscape: [https://inkscape.org/es/](https://inkscape.org/es/)
 * Real Favicon Generator: [https://realfavicongenerator.net/](https://realfavicongenerator.net/)
-* Librerías JS: Menuspy (menu/header fijo)
+* Librerías JS: Menuspy (menú/header fijo)
 * Librerías CSS: unicorn-ui (botones)
 
 ## Progreso:
@@ -28,7 +28,6 @@ Proyecto de página web de información, chuletas y enlaces de alemán. También
 
 ## Tareas pendientes:
 * Añadir funcionalidad/backend del formulario.
-* Reducir contenido de texto y añadir alguna imagen más.
 * Añadir diseño responsive.
 
 ## Captura de pantalla de la página
