@@ -1,6 +1,6 @@
 # Proyecto Sprechenscheidt
 
-## Descripción del proyecto 
+## Descripción del proyecto
 Proyecto de página web de información, chuletas y enlaces de alemán. También se presentará y promocionará un diccionario de alemán-español y una app relacionada a este.
 
 ## Enlaces a perfiles
@@ -21,8 +21,17 @@ Proyecto de página web de información, chuletas y enlaces de alemán. También
 * Formspree: [https://formspree.io/](https://formspree.io/) formulario de contacto simple
 
 ## Progreso
+### Fase 1:
+* Boceto del diseño inicial:
+![Boceto fase 1](img/boceto1.png "Boceto inicial")
+
+### Fase 2:
+* Boceto de la fase 2:
+![Boceto fase 2](img/boceto2.png "Boceto inicial")
 * Añadido fondo de dibujo en patrón sin bordes. Se han añadido sombras suaves a los elementos de la página que se quiere que resalten sobre el fondo.
 * Se han añadido imágenes pequeñas en línea con los textos para que resulten más llamativos.
+
+### Fase 3:
 * Se ha diseñado y añadido un favicon original con Inkscape y Real Favicon Generator.
 * Se ha añadido un formulario de contacto básico.
 * Se ha modificado manualmente el código de la librería unicorn-ui para añadir una nueva clase de botón, principalmente para el formulario.
@@ -32,4 +41,4 @@ Proyecto de página web de información, chuletas y enlaces de alemán. También
 * Añadir diseño responsive.
 
 ## Captura de pantalla de la página
-![Captura de la página](https://github.com/lesen7/sprechenscheidt/blob/master/img/screenshot.png "Captura de la página")
+![Captura de la página](img/screenshot.png "Captura de la página")
