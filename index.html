@@ -131,19 +131,18 @@
         <div class="formulario">
           <fieldset>
           <legend>Datos personales</legend>
-          <form name="formulario" method="post" action="http://pagina.com/send.php">
-           <label> Nombre: <input type="text" name="nombre" placeholder="Ejemplo: Hans Müller"
-           minlength="3" maxlength="40" required class="nombre"> </label>
+          <form name="formulario" target="_blank" action="https://formspree.io/enzolespart@gmail.com" method="POST">
+           <label> Nombre: <input type="text" name="name" placeholder="Ejemplo: Hans Müller"
+           minlength="3" maxlength="40" required class="name"> </label>
            <br>
-           <label> E-mail: <input type="text" name="email" placeholder="Ejemplo: hans@mail.com"
-             minlength="10" maxlength="20" class="email"></label>
+           <label> E-mail: <input type="email" name="_replyto" placeholder="Ejemplo: hans@mail.com" minlength="10" maxlength="20" class="email"></label>
             <br>
           </fieldset>
 
           <fieldset>
           <legend>Mensaje</legend>
-            <label>Mensaje:<input type="text" name="mensaje" placeholder=""
-              minlength="10" maxlength="1200" required class="mensaje"> </label>
+            <label><input type="text" name="message" placeholder=""
+              minlength="10" maxlength="1200" required class="message"> </label>
           </fieldset>
 
           <input type="submit" value="Enviar" class="button2 button-pill button-medium">

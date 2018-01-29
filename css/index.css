@@ -208,13 +208,13 @@ header {
 }
 
 
-.mensaje {
+.message {
   margin-left: 2px;
   height: 160px;
-  width: 250px;
+  width: 320px;
 }
 
-.nombre {
+.name {
   width: 250px;
 }
 
