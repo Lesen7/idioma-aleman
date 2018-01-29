@@ -41,7 +41,6 @@ Proyecto de página web de información, chuletas y enlaces de alemán. También
 * Se ha modificado manualmente el código de la librería unicorn-ui para añadir una nueva clase de botón, principalmente para el formulario.
 
 ## Tareas pendientes
-* Añadir funcionalidad/backend del formulario.
 * Añadir diseño responsive.
 
 ## Captura de pantalla de la página
