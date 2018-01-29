@@ -11,7 +11,7 @@ body {
 header {
   z-index: 1;
   min-width: 100vw;
-  min-height: 300px;
+  min-height: 270px;
   background-image: url(../img/bandera-alemania.png);
   background-size: 100% 300px;
   background-position: center;
