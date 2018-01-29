@@ -6,7 +6,7 @@ Proyecto de página web de información, chuletas y enlaces de alemán. También
 ## Enlaces a perfiles
 | Descripción | Enlaces | Observaciones |
 |-------------|---------|---------------|
-| CodePen | [https://codepen.io/Lesen7/](https://codepen.io/Lesen7/) | Mi perfil de perfil de CodePen |
+| CodePen | [https://codepen.io/Lesen7/](https://codepen.io/Lesen7/) | Mi perfil de CodePen |
 | GitHub | [https://lesen7.github.io/sprechenscheidt/](https://lesen7.github.io/sprechenscheidt/) | Página principal del proyecto |
 
 ## Herramientas utilizadas
@@ -19,14 +19,14 @@ Proyecto de página web de información, chuletas y enlaces de alemán. También
 * Librerías JS: Menuspy (menú/header fijo)
 * Librerías CSS: unicorn-ui (botones)
 
-## Progreso:
+## Progreso
 * Añadido fondo de dibujo en patrón sin bordes. Se han añadido sombras suaves a los elementos de la página que se quiere que resalten sobre el fondo.
 * Se han añadido imágenes pequeñas en línea con los textos para que resulten más llamativos.
 * Se ha diseñado y añadido un favicon original con Inkscape y Real Favicon Generator.
 * Se ha añadido un formulario de contacto básico.
 * Se ha modificado manualmente el código de la librería unicorn-ui para añadir una nueva clase de botón, principalmente para el formulario.
 
-## Tareas pendientes:
+## Tareas pendientes
 * Añadir funcionalidad/backend del formulario.
 * Añadir diseño responsive.
 
