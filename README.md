@@ -16,8 +16,9 @@ Proyecto de página web de información, chuletas y enlaces de alemán. También
   * Plugins: linter, linter-ui-default, linter-tidy, busy-signal, intentions, linter-slint, atom-beautify, color-picker, emmet, minimap.
 * Inkscape: [https://inkscape.org/es/](https://inkscape.org/es/)
 * Real Favicon Generator: [https://realfavicongenerator.net/](https://realfavicongenerator.net/)
-* Librerías JS: Menuspy (menú/header fijo)
-* Librerías CSS: unicorn-ui (botones)
+* Librerías JS: [https://leocs.me/menuspy/](https://leocs.me/menuspy/) Menuspy (menú/header fijo)
+* Librerías CSS: [http://unicorn-ui.com/buttons/](http://unicorn-ui.com/buttons/) unicorn-ui (botones)
+* Formspree: [https://formspree.io/](https://formspree.io/) formulario de contacto simple
 
 ## Progreso
 * Añadido fondo de dibujo en patrón sin bordes. Se han añadido sombras suaves a los elementos de la página que se quiere que resalten sobre el fondo.
