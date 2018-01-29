@@ -27,13 +27,17 @@ Proyecto de página web de información, chuletas y enlaces de alemán. También
 
 ### Fase 2:
 * Boceto de la fase 2:
-![Boceto fase 2](img/boceto2.png "Boceto inicial")
+![Boceto fase 2](img/boceto2.png "Boceto fase 2")
 * Añadido fondo de dibujo en patrón sin bordes. Se han añadido sombras suaves a los elementos de la página que se quiere que resalten sobre el fondo.
+* Se ha añadido la librería unicorn-ui para facilitar la creación de botones.
 * Se han añadido imágenes pequeñas en línea con los textos para que resulten más llamativos.
 
 ### Fase 3:
-* Se ha diseñado y añadido un favicon original con Inkscape y Real Favicon Generator.
+* Boceto de la fase 3:
+![Boceto fase 3](img/boceto3.png "Boceto fase 3")
+* Se ha diseñado y añadido un favicon con Inkscape y Real Favicon Generator.
 * Se ha añadido un formulario de contacto básico.
+* Se ha añadido la librería menuspy para que el nav de la página siga al usuario a medida que vaya haciendo scroll.
 * Se ha modificado manualmente el código de la librería unicorn-ui para añadir una nueva clase de botón, principalmente para el formulario.
 
 ## Tareas pendientes
