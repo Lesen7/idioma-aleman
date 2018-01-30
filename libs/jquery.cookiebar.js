@@ -23,7 +23,7 @@
 			var doReturn = false;
 		}
 		var defaults = {
-			message: 'Diese Webpage cookies benutzt in ihrem Gehirn zu eintreten. Einverstanden sich?', //Message displayed on bar
+			message: 'Diese Webpage cookies benutzt in ihrem Gehirn zu eintreten.', //Message displayed on bar
 			acceptButton: true, //Set to true to show accept/enable button
 			acceptText: 'Verstenden', //Text on accept/enable button
 			acceptFunction: function(cookieValue){if(cookieValue!='enabled' && cookieValue!='accepted') window.location = window.location.href;}, //Function to run after accept
