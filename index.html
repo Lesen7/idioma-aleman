@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css" />
     <link rel="stylesheet" type="text/css" href="css/index.css">
     <link rel="stylesheet" href="libs/unicorn-ui.css">
+    <link rel="stylesheet" type="text/css" href="libs/jquery.cookiebar.css">
     <link rel="favicon/apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
@@ -159,7 +160,12 @@
     </div>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+    <script type="text/javascript" src="libs/jquery.cookiebar.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+         $.cookieBar();
+      });
+    </script>
     <script src="https://cdn.jsdelivr.net/npm/menuspy@1.2.1/dist/menuspy.min.js"></script>
     <script src="js/index.js"></script>
   </body>
