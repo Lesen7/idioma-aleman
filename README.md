@@ -36,18 +36,18 @@ Proyecto de página web de información, chuletas y enlaces de alemán. También
 ## Progreso
 ### Fase 1:
 * Boceto del diseño inicial:
-![Boceto fase 1](https://raw.githubusercontent.com/Lesen7/sprechenscheidt/master/img/boceto1.png "Boceto inicial")
+![Boceto fase 1](https://lesen7.github.io/sprechenscheidt/img/boceto1.png "Boceto inicial")
 
 ### Fase 2:
 * Boceto de la fase 2:
-![Boceto fase 2](https://raw.githubusercontent.com/Lesen7/sprechenscheidt/master/img/boceto2.png "Boceto fase 2")
+![Boceto fase 2](https://lesen7.github.io/sprechenscheidt/img/boceto2.png "Boceto fase 2")
 * Añadido fondo de dibujo en patrón sin bordes. Se han añadido sombras suaves a los elementos de la página que se quiere que resalten sobre el fondo.
 * Se ha añadido la librería unicorn-ui para facilitar la creación de botones.
 * Se han añadido imágenes pequeñas en línea con los textos para que resulten más llamativos.
 
 ### Fase 3:
 * Boceto de la fase 3:
-![Boceto fase 3](https://raw.githubusercontent.com/Lesen7/sprechenscheidt/master/img/boceto3.png "Boceto fase 3")
+![Boceto fase 3](https://lesen7.github.io/sprechenscheidt/img/boceto3.png "Boceto fase 3")
 * Se ha diseñado y añadido un favicon con Inkscape y Real Favicon Generator.
 * Se ha añadido un formulario de contacto básico.
 * Se ha añadido la librería menuspy para que el nav de la página siga al usuario a medida que vaya haciendo scroll.
@@ -57,4 +57,4 @@ Proyecto de página web de información, chuletas y enlaces de alemán. También
 * Añadir diseño responsive.
 
 ## Captura de pantalla de la página
-![Captura de la página](img/screenshot.png "Captura de la página")
+![Captura de la página](https://lesen7.github.io/sprechenscheidt/img/screenshot.png "Captura de la página")
