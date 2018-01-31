@@ -11,7 +11,7 @@
  *
  * When using this software you use it at your own risk. We hold
  * no responsibility for any damage caused by using this plugin
- * or the documentation provided.
+ * or the documentation provided
  */
 (function($){
 	$.cookieBar = function(options,val){

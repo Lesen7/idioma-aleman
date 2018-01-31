@@ -10,15 +10,26 @@ Proyecto de página web de información, chuletas y enlaces de alemán. También
 | GitHub | [https://lesen7.github.io/sprechenscheidt/](https://lesen7.github.io/sprechenscheidt/) | Página principal del proyecto |
 
 ## Herramientas utilizadas
-* Draw.io: [https://www.draw.io/](https://www.draw.io/)
-* Trello: [https://trello.com/](https://trello.com/)
-* Atom: [https://atom.io/](https://atom.io/)
-  * Plugins: linter, linter-ui-default, linter-tidy, busy-signal, intentions, linter-slint, atom-beautify, color-picker, emmet, minimap.
-* Inkscape: [https://inkscape.org/es/](https://inkscape.org/es/)
-* Real Favicon Generator: [https://realfavicongenerator.net/](https://realfavicongenerator.net/)
-* Librerías JS: [https://leocs.me/menuspy/](https://leocs.me/menuspy/) Menuspy (menú/header fijo)
-* Librerías CSS: [http://unicorn-ui.com/buttons/](http://unicorn-ui.com/buttons/) unicorn-ui (botones)
-* Formspree: [https://formspree.io/](https://formspree.io/) formulario de contacto simple
+| Nombre | Enlace | Observaciones |
+|--------|--------|---------------|
+| Draw.io | [https://www.draw.io/](https://www.draw.io/) | Herramienta para bocetos |
+| Trello | [https://trello.com/](https://trello.com/) | Herramienta para organización de tareas |
+| Inkscape | [https://inkscape.org/es/](https://inkscape.org/es/) | Software para imágenes vectoriales |
+| Real Favicon Generator | [https://realfavicongenerator.net/](https://realfavicongenerator.net/) | generador de favicons |
+| Menuspy | [https://leocs.me/menuspy/](https://leocs.me/menuspy/) | Librería JS (menú/header fijo) |
+| Unicorn-ui | [http://unicorn-ui.com/buttons/](http://unicorn-ui.com/buttons/) | Librería CSS (unicorn-ui) |
+| Formspree | [https://formspree.io/](https://formspree.io/) | Servicio para formulario de contacto |
+| Atom | [https://atom.io/](https://atom.io/) | IDE con soporte para varios lenguajes |
+
+### Plugins Atom
+| Nombre | Descripción | Relacionados |
+|--------|------------|---------------|
+| linter | Validación/Calidad de código | linter, linter-ui-default, busy-signal, intentions |
+| linter-tidy | indentación automática de código | atom-beautify |
+| jslint | Validación/Calidad de código JS | |
+| color-picker | Selector de colores rápido | |
+| emmet | Autocompletado | |
+| minimap | Minimapa de código para navegación fácil | |
 
 ## Progreso
 ### Fase 1:
