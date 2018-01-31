@@ -20,6 +20,8 @@ Proyecto de página web de información, chuletas y enlaces de alemán. También
 | Unicorn-ui | [http://unicorn-ui.com/buttons/](http://unicorn-ui.com/buttons/) | Librería CSS (unicorn-ui) |
 | Formspree | [https://formspree.io/](https://formspree.io/) | Servicio para formulario de contacto |
 | Atom | [https://atom.io/](https://atom.io/) | IDE con soporte para varios lenguajes |
+| Google Search Console | [https://www.google.com/webmasters/tools/](https://www.google.com/webmasters/tools) | Herramienta de SEO de google |
+| Google Analytics | [https://analytics.google.com/analytics/web/](https://analytics.google.com/analytics/web/) | Herramienta de Google para monitorizar datos y actividad de la Web |
 
 ### Plugins Atom
 | Nombre | Descripción | Relacionados |
